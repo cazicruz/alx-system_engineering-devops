@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#runs git commands (add, commit and push)
+
+git add .
+git commit -m 'task: Loops, conditions and parsing'
+git push origin main
