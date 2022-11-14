@@ -3,9 +3,13 @@
 # this script uses while loop to display Best Shool 10 times.
 
 i=1
+text_sch="Best School"
+# i is a variable used to count while looping
+# text_sch is a variable holding the value Best School
 
 while [ $i -le 10 ];
 do
-    echo "Best School"
+    echo $text_sch
     ((i++))
+
 done
