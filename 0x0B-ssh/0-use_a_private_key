@@ -2,4 +2,4 @@
 # This Script connects to the server 100.25.136.93 using the users private key
 # stored in a file school Found in the users home directory
 
-ssh -i ~/.ssh/school ubuntu@52.3.253.156
+ssh -i ~/.ssh/school ubuntu@54.167.152.205
