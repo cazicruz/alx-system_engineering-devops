@@ -3,13 +3,8 @@
 Using https://jsonplaceholder.typicode.com
 returns info about employee TODO progress
 """
-import re
 import requests
 import sys
-
-
-API = "https://jsonplaceholder.typicode.com"
-"""REST API url"""
 
 
 if __name__ == "__main__":
